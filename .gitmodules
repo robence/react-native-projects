@@ -1,3 +1,9 @@
 [submodule "shop-app"]
 	path = shop-app
 	url = https://github.com/robence/react-native-shop-app
+[submodule "meals-app"]
+	path = meals-app
+	url = https://github.com/robence/react-native-meals-app
+[submodule "guess-a-number"]
+	path = guess-a-number
+	url = https://github.com/robence/react-native-guess-a-number
