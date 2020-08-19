@@ -7,3 +7,9 @@
 [submodule "guess-a-number"]
 	path = guess-a-number
 	url = https://github.com/robence/react-native-guess-a-number
+[submodule "geocode-example"]
+	path = geocode-example
+	url = git@github.com:robence/react-native-geocode-example.git
+[submodule "travel-ui"]
+	path = travel-ui
+	url = git@github.com:robence/react-native-travel-ui.git
