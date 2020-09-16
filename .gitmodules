@@ -13,3 +13,6 @@
 [submodule "travel-ui"]
 	path = travel-ui
 	url = git@github.com:robence/react-native-travel-ui.git
+[submodule "learniverse-ui"]
+	path = learniverse-ui
+	url = git@github.com:robence/react-native-learniverse-ui.git
