@@ -16,3 +16,6 @@
 [submodule "learniverse-ui"]
 	path = learniverse-ui
 	url = git@github.com:robence/react-native-learniverse-ui.git
+[submodule "expo-release-management"]
+	path = expo-release-management
+	url = git@github.com:robence/expo-release-management.git
