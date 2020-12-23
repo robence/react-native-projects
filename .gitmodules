@@ -22,3 +22,6 @@
 [submodule "testing"]
 	path = testing
 	url = git@github.com:robence/react-native-testing.git
+[submodule "moly-app"]
+	path = moly-app
+	url = git@github.com:robence/moly-app.git
