@@ -13,6 +13,18 @@ Implements custom UI from dribbble.
   - Number Picker
   - Spacer
 
+## react-native-meals-app
+A meal app featuring many aspect of React Native
+
+- Expo SDK: 37
+- Language: JavaScript
+- Navigation: Drawer, Stack, Bottom Tab
+- Features: 
+  - Header icons, buttons
+  - Redux, react-redux Hooks
+  - ES6 classes
+  - JSX syntax
+
 ## react-native-guess-a-number
 Number guesser game. Responsive, handles iOS and Android platforms differently
 
