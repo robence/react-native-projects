@@ -14,7 +14,7 @@ Implements custom UI from dribbble.
   - Spacer
 
 ## react-native-guess-a-number
-Number guesser game. Responsive, handles ios and android platforms differently
+Number guesser game. Responsive, handles iOS and Android platforms differently
 
 - Expo SDK: 36
 - Language: JavaScript
