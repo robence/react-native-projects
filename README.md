@@ -1,5 +1,21 @@
 # react-native-projects
 
+## react-native-shop-app
+Fully featured shop app with Firebase and authentication.
+
+- Expo SDK: 41
+- Language: TypeScript
+- Navigation: Drawer, Stack
+- Eslint: JSX, TSX support, import order
+- Github Actions: Lint, Type Check on CI
+- Features: 
+  - Firebase Realtime Database
+  - Header buttons
+  - Card component
+  - Custom Input component
+  - Custom Form handling
+  - Typed Redux and State
+
 ## react-native-travel-ui
 Implements custom UI from dribbble. Click [here](https://dribbble.com/shots/14239190-Daily-UI-004-Travel-Cost-Calculator) to open link.
 
